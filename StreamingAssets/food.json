@@ -1,0 +1,277 @@
+{
+	"id": "food",
+	"translations": {
+		"en": "Food",
+		"da": "Madvarer",
+		"de": "Lebensmittel",
+		"it": "Cibi",
+		"es": "Alimentos",
+		"fr": "Aliments"
+	},
+	"concepts": {
+		"apple": {
+			"translations": {
+				"en": "Apple",
+				"da": "Æble",
+				"de": "Apfel",
+				"it": "Mela",
+				"es": "Manzana",
+				"fr": "Pomme"
+			},
+			"image": "ConceptsImages/Food/Apple.png"
+		},
+		"bread": {
+			"translations": {
+				"en": "Bread",
+				"da": "Brød",
+				"de": "Brot",
+				"it": "Pane",
+				"es": "Pan",
+				"fr": "Pain"
+			},
+			"image": "ConceptsImages/Food/Bread.png"
+		},
+		"cauliflower": {
+			"translations": {
+				"en": "Cauliflower",
+				"da": "Blomkål",
+				"de": "Blumenkohl",
+				"it": "Cavolfiore",
+				"es": "Coliflor",
+				"fr": "Chou-fleur"
+			},
+			"image": "ConceptsImages/Food/Cauliflower.png"
+		},
+		"cheese": {
+			"translations": {
+				"en": "Cheese",
+				"da": "Ost",
+				"de": "Käse",
+				"it": "Formaggio",
+				"es": "Queso",
+				"fr": "Fromage"
+			},
+			"image": "ConceptsImages/Food/Cheese.png"
+		},
+		"cookie": {
+			"translations": {
+				"en": "Cookie",
+				"da": "Småkage",
+				"de": "Keks",
+				"it": "Biscotto",
+				"es": "Galleta",
+				"fr": "Biscuit"
+			},
+			"image": "ConceptsImages/Food/Cookie.png"
+		},
+		"dessert": {
+			"translations": {
+				"en": "Dessert",
+				"da": "Dessert",
+				"de": "Nachtisch",
+				"it": "Dessert",
+				"es": "Postre",
+				"fr": "Dessert"
+			},
+			"image": "ConceptsImages/Food/Dessert.png"
+		},
+		"eggs": {
+			"translations": {
+				"en": "Eggs",
+				"da": "Æg",
+				"de": "Eier",
+				"it": "Uova",
+				"es": "Huevos",
+				"fr": "Œufs"
+			},
+			"image": "ConceptsImages/Food/Eggs.png"
+		},
+		"fish": {
+			"translations": {
+				"en": "Fish",
+				"da": "Fisk",
+				"de": "Fisch",
+				"it": "Pesce",
+				"es": "Pescado",
+				"fr": "Poisson"
+			},
+			"image": "ConceptsImages/Food/Fish.png"
+		},
+		"ham": {
+			"translations": {
+				"en": "Ham",
+				"da": "Skinke",
+				"de": "Schinken",
+				"it": "Prosciutto",
+				"es": "Jamón",
+				"fr": "Jambon"
+			},
+			"image": "ConceptsImages/Food/Ham.png"
+		},
+		"juice": {
+			"translations": {
+				"en": "Juice",
+				"da": "Juice",
+				"de": "Saft",
+				"it": "Succo",
+				"es": "Jugo",
+				"fr": "Jus"
+			},
+			"image": "ConceptsImages/Food/Juice.png"
+		},
+		"lettuce": {
+			"translations": {
+				"en": "Lettuce",
+				"da": "Salat",
+				"de": "Salat",
+				"it": "Lattuga",
+				"es": "Lechuga",
+				"fr": "Laitue"
+			},
+			"image": "ConceptsImages/Food/Lettuce.png"
+		},
+		"onion": {
+			"translations": {
+				"en": "Onion",
+				"da": "Løg",
+				"de": "Zwiebel",
+				"it": "Cipolla",
+				"es": "Cebolla",
+				"fr": "Oignon"
+			},
+			"image": "ConceptsImages/Food/Onion.png"
+		},
+		"peas": {
+			"translations": {
+				"en": "Peas",
+				"da": "Ærter",
+				"de": "Erbsen",
+				"it": "Piselli",
+				"es": "Guisantes",
+				"fr": "Petits pois"
+			},
+			"image": "ConceptsImages/Food/Peas.png"
+		},
+		"pepper": {
+			"translations": {
+				"en": "Pepper",
+				"da": "Peber",
+				"de": "Pfeffer",
+				"it": "Pepe",
+				"es": "Pimienta",
+				"fr": "Poivre"
+			},
+			"image": "ConceptsImages/Food/Pepper.png"
+		},
+		"pie": {
+			"translations": {
+				"en": "Pie",
+				"da": "Tærte",
+				"de": "Kuchen",
+				"it": "Torta",
+				"es": "Pastel",
+				"fr": "Tarte"
+			},
+			"image": "ConceptsImages/Food/Pie.png"
+		},
+		"potato": {
+			"translations": {
+				"en": "Potato",
+				"da": "Kartoffel",
+				"de": "Kartoffel",
+				"it": "Patata",
+				"es": "Patata",
+				"fr": "Pomme de terre"
+			},
+			"image": "ConceptsImages/Food/Potato.png"
+		},
+		"rice": {
+			"translations": {
+				"en": "Rice",
+				"da": "Ris",
+				"de": "Reis",
+				"it": "Riso",
+				"es": "Arroz",
+				"fr": "Riz"
+			},
+			"image": "ConceptsImages/Food/Rice.png"
+		},
+		"salt": {
+			"translations": {
+				"en": "Salt",
+				"da": "Salt",
+				"de": "Salz",
+				"it": "Sale",
+				"es": "Sal",
+				"fr": "Sel"
+			},
+			"image": "ConceptsImages/Food/Salt.png"
+		},
+		"sandwich": {
+			"translations": {
+				"en": "Sandwich",
+				"da": "Sandwich",
+				"de": "Sandwich",
+				"it": "Panino",
+				"es": "Sándwich",
+				"fr": "Sandwich"
+			},
+			"image": "ConceptsImages/Food/Sandwich.png"
+		},
+		"sausage": {
+			"translations": {
+				"en": "Sausage",
+				"da": "Pølse",
+				"de": "Wurst",
+				"it": "Salsiccia",
+				"es": "Salchicha",
+				"fr": "Saucisse"
+			},
+			"image": "ConceptsImages/Food/Sausage.png"
+		},
+		"soup": {
+			"translations": {
+				"en": "Soup",
+				"da": "Suppe",
+				"de": "Suppe",
+				"it": "Zuppa",
+				"es": "Sopa",
+				"fr": "Soupe"
+			},
+			"image": "ConceptsImages/Food/Soup.png"
+		},
+		"steak": {
+			"translations": {
+				"en": "Steak",
+				"da": "Bøf",
+				"de": "Steak",
+				"it": "Bistecca",
+				"es": "Bistec",
+				"fr": "Steak"
+			},
+			"image": "ConceptsImages/Food/Steak.png"
+		},
+		"sugar": {
+			"translations": {
+				"en": "Sugar",
+				"da": "Sukker",
+				"de": "Zucker",
+				"it": "Zucchero",
+				"es": "Azúcar",
+				"fr": "Sucre"
+			},
+			"image": "ConceptsImages/Food/Sugar.png"
+		},
+		"tomato": {
+			"translations": {
+				"en": "Tomato",
+				"da": "Tomat",
+				"de": "Tomate",
+				"it": "Pomodoro",
+				"es": "Tomate",
+				"fr": "Tomate"
+			},
+			"image": "ConceptsImages/Food/Tomato.png"
+		}
+	}
+}

@@ -1,0 +1,134 @@
+{
+	"id": "colors",
+	"translations": {
+		"en": "Colors",
+		"da": "Farver",
+		"de": "Farben",
+		"it": "Colori",
+		"es": "Colores",
+		"fr": "Couleurs"
+	},
+	"concepts": {
+		"black": {
+			"translations": {
+				"en": "Black",
+				"da": "Sort",
+				"de": "Schwarz",
+				"it": "Nero",
+				"es": "Negro",
+				"fr": "Noir"
+			},
+			"image": "ConceptsImages/Colors/Black.png"
+		},
+		"blue": {
+			"translations": {
+				"en": "Blue",
+				"da": "Blå",
+				"de": "Blau",
+				"it": "Blu",
+				"es": "Azul",
+				"fr": "Bleu"
+			},
+			"image": "ConceptsImages/Colors/Blue.png"
+		},
+		"brown": {
+			"translations": {
+				"en": "Brown",
+				"da": "Brun",
+				"de": "Braun",
+				"it": "Marrone",
+				"es": "Marrón",
+				"fr": "Marron"
+			},
+			"image": "ConceptsImages/Colors/Brown.png"
+		},
+		"green": {
+			"translations": {
+				"en": "Green",
+				"da": "Grøn",
+				"de": "Grün",
+				"it": "Verde",
+				"es": "Verde",
+				"fr": "Vert"
+			},
+			"image": "ConceptsImages/Colors/Green.png"
+		},
+		"grey": {
+			"translations": {
+				"en": "Grey",
+				"da": "Grå",
+				"de": "Grau",
+				"it": "Grigio",
+				"es": "Gris",
+				"fr": "Gris"
+			},
+			"image": "ConceptsImages/Colors/Grey.png"
+		},
+		"orange": {
+			"translations": {
+				"en": "Orange",
+				"da": "Orange",
+				"de": "Orange",
+				"it": "Arancione",
+				"es": "Naranja",
+				"fr": "Orange"
+			},
+			"image": "ConceptsImages/Colors/Orange.png"
+		},
+		"pink": {
+			"translations": {
+				"en": "Pink",
+				"da": "Lyserød",
+				"de": "Rosa",
+				"it": "Rosa",
+				"es": "Rosa",
+				"fr": "Rose"
+			},
+			"image": "ConceptsImages/Colors/Pink.png"
+		},
+		"red": {
+			"translations": {
+				"en": "Red",
+				"da": "Rød",
+				"de": "Rot",
+				"it": "Rosso",
+				"es": "Rojo",
+				"fr": "Rouge"
+			},
+			"image": "ConceptsImages/Colors/Red.png"
+		},
+		"violet": {
+			"translations": {
+				"en": "Violet",
+				"da": "Violet",
+				"de": "Violett",
+				"it": "Viola",
+				"es": "Violeta",
+				"fr": "Violet"
+			},
+			"image": "ConceptsImages/Colors/Violet.png"
+		},
+		"white": {
+			"translations": {
+				"en": "White",
+				"da": "Hvid",
+				"de": "Weiß",
+				"it": "Bianco",
+				"es": "Blanco",
+				"fr": "Blanc"
+			},
+			"image": "ConceptsImages/Colors/White.png"
+		},
+		"yellow": {
+			"translations": {
+				"en": "Yellow",
+				"da": "Gul",
+				"de": "Gelb",
+				"it": "Giallo",
+				"es": "Amarillo",
+				"fr": "Jaune"
+			},
+			"image": "ConceptsImages/Colors/Yellow.png"
+		}
+	}
+}

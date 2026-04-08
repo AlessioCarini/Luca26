@@ -1,0 +1,244 @@
+{
+	"id": "animals",
+	"translations": {
+		"en": "Animals",
+		"da": "Dyr",
+		"de": "Tiere",
+		"it": "Animali",
+		"es": "Animales",
+		"fr": "Animaux"
+	},
+	"concepts": {
+		"cat": {
+			"translations": {
+				"en": "Cat",
+				"da": "Kat",
+				"de": "Katze",
+				"it": "Gatto",
+				"es": "Gato",
+				"fr": "Chat"
+			},
+			"image": "ConceptsImages/Animals/Cat.png"
+		},
+		"dog": {
+			"translations": {
+				"en": "Dog",
+				"da": "Hund",
+				"de": "Hund",
+				"it": "Cane",
+				"es": "Perro",
+				"fr": "Chien"
+			},
+			"image": "ConceptsImages/Animals/Dog.png"
+		},
+		"bear": {
+			"translations": {
+				"en": "Bear",
+				"da": "Bjørn",
+				"de": "Bär",
+				"it": "Orso",
+				"es": "Oso",
+				"fr": "Ours"
+			},
+			"image": "ConceptsImages/Animals/Bear.png"
+		},
+		"bird": {
+			"translations": {
+				"en": "Bird",
+				"da": "Fugl",
+				"de": "Vogel",
+				"it": "Uccello",
+				"es": "Pájaro",
+				"fr": "Oiseau"
+			},
+			"image": "ConceptsImages/Animals/Bird.png"
+		},
+		"camel": {
+			"translations": {
+				"en": "Camel",
+				"da": "Kamel",
+				"de": "Kamel",
+				"it": "Cammello",
+				"es": "Camello",
+				"fr": "Chameau"
+			},
+			"image": "ConceptsImages/Animals/Camel.png"
+		},
+		"crocodile": {
+			"translations": {
+				"en": "Crocodile",
+				"da": "Krokodille",
+				"de": "Krokodil",
+				"it": "Coccodrillo",
+				"es": "Cocodrilo",
+				"fr": "Crocodile"
+			},
+			"image": "ConceptsImages/Animals/Crocodile.png"
+		},
+		"elephant": {
+			"translations": {
+				"en": "Elephant",
+				"da": "Elefant",
+				"de": "Elefant",
+				"it": "Elefante",
+				"es": "Elefante",
+				"fr": "Éléphant"
+			},
+			"image": "ConceptsImages/Animals/Elephant.png"
+		},
+		"fish": {
+			"translations": {
+				"en": "Fish",
+				"da": "Fisk",
+				"de": "Fisch",
+				"it": "Pesce",
+				"es": "Pez",
+				"fr": "Poisson"
+			},
+			"image": "ConceptsImages/Animals/Fish.png"
+		},
+		"giraffe": {
+			"translations": {
+				"en": "Giraffe",
+				"da": "Giraf",
+				"de": "Giraffe",
+				"it": "Giraffa",
+				"es": "Jirafa",
+				"fr": "Girafe"
+			},
+			"image": "ConceptsImages/Animals/Giraffe.png"
+		},
+		"hippopotamus": {
+			"translations": {
+				"en": "Hippopotamus",
+				"da": "Flodhest",
+				"de": "Nilpferd",
+				"it": "Ippopotamo",
+				"es": "Hipopótamo",
+				"fr": "Hippopotame"
+			},
+			"image": "ConceptsImages/Animals/Hippopotamus.png"
+		},
+		"horse": {
+			"translations": {
+				"en": "Horse",
+				"da": "Hest",
+				"de": "Pferd",
+				"it": "Cavallo",
+				"es": "Caballo",
+				"fr": "Cheval"
+			},
+			"image": "ConceptsImages/Animals/Horse.png"
+		},
+		"kangaroo": {
+			"translations": {
+				"en": "Kangaroo",
+				"da": "Kænguru",
+				"de": "Känguru",
+				"it": "Canguro",
+				"es": "Canguro",
+				"fr": "Kangourou"
+			},
+			"image": "ConceptsImages/Animals/Kangaroo.png"
+		},
+		"lion": {
+			"translations": {
+				"en": "Lion",
+				"da": "Løve",
+				"de": "Löwe",
+				"it": "Leone",
+				"es": "León",
+				"fr": "Lion"
+			},
+			"image": "ConceptsImages/Animals/Lion.png"
+		},
+		"lizard": {
+			"translations": {
+				"en": "Lizard",
+				"da": "Øgle",
+				"de": "Eidechse",
+				"it": "Lucertola",
+				"es": "Lagarto",
+				"fr": "Lézard"
+			},
+			"image": "ConceptsImages/Animals/Lizard.png"
+		},
+		"mouse": {
+			"translations": {
+				"en": "Mouse",
+				"da": "Mus",
+				"de": "Maus",
+				"it": "Topo",
+				"es": "Ratón",
+				"fr": "Souris"
+			},
+			"image": "ConceptsImages/Animals/Mouse.png"
+		},
+		"pig": {
+			"translations": {
+				"en": "Pig",
+				"da": "Gris",
+				"de": "Schwein",
+				"it": "Maiale",
+				"es": "Cerdo",
+				"fr": "Cochon"
+			},
+			"image": "ConceptsImages/Animals/Pig.png"
+		},
+		"shark": {
+			"translations": {
+				"en": "Shark",
+				"da": "Haj",
+				"de": "Hai",
+				"it": "Squalo",
+				"es": "Tiburón",
+				"fr": "Requin"
+			},
+			"image": "ConceptsImages/Animals/Shark.png"
+		},
+		"snake": {
+			"translations": {
+				"en": "Snake",
+				"da": "Slange",
+				"de": "Schlange",
+				"it": "Serpente",
+				"es": "Serpiente",
+				"fr": "Serpent"
+			},
+			"image": "ConceptsImages/Animals/Snake.png"
+		},
+		"squirrel": {
+			"translations": {
+				"en": "Squirrel",
+				"da": "Egern",
+				"de": "Eichhörnchen",
+				"it": "Scoiattolo",
+				"es": "Ardilla",
+				"fr": "Écureuil"
+			},
+			"image": "ConceptsImages/Animals/Squirrel.png"
+		},
+		"tiger": {
+			"translations": {
+				"en": "Tiger",
+				"da": "Tiger",
+				"de": "Tiger",
+				"it": "Tigre",
+				"es": "Tigre",
+				"fr": "Tigre"
+			},
+			"image": "ConceptsImages/Animals/Tiger.png"
+		},
+		"whale": {
+			"translations": {
+				"en": "Whale",
+				"da": "Hval",
+				"de": "Wal",
+				"it": "Balena",
+				"es": "Ballena",
+				"fr": "Baleine"
+			},
+			"image": "ConceptsImages/Animals/Whale.png"
+		}
+	}
+}
